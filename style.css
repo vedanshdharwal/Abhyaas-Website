@@ -18,7 +18,7 @@
 	
 	.button_1{
 		height:38px;
-		background:#0d3dcf;
+		background:#2162AF;
 		border:0;
 		padding:0 20px;
 		color:#ffffff;
@@ -37,7 +37,7 @@
 		color:#ffffff;
 		padding-top:30px;
 		min-height:70px;
-		border-bottom:#0d3dcf 3px solid;
+		border-bottom:#2162AF 3px solid;
 	}
 	
 	header a{
@@ -68,7 +68,7 @@
 	}
 	
 	header .highlight, header .current a{
-		color:#0d3dcf;
+		color:#2162AF;
 		font-weight:bold;
 	}
 	
@@ -164,7 +164,7 @@
 		padding:20px;
 		margin-top:20px;
 		color:#ffffff;
-		background-color:#0d3dcf;
+		background-color:#2162AF;
 		text-align:center;
 	}
 	
